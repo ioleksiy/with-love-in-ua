@@ -12,7 +12,12 @@ var lang = {
 		"method2":"Second (the fastest):",
 		"m1":"prepare image 320х180 in PNG format",
 		"m2":"make pull and change current website as you need",
-		"m3":"make a pull request"
+		"m3":"make a pull request",
+		"pictures":"Logotypes for your website",
+		"like":"Like it?",
+		"p1":"main logo",
+		"p2":"symbol",
+		"p3":"collection of logos"
 	},
 	"ru":{
 		"title":"Создано с любовью в Украине",
@@ -26,7 +31,12 @@ var lang = {
 		"method2":"Второй (быстрый):",
 		"m1":"подготовить изображение 320х180 в формате PNG",
 		"m2":"сделать pull и внести изменения в этот сайт",
-		"m3":"сделать pull request"
+		"m3":"сделать pull request",
+		"pictures":"Логотипы для вашего сайта",
+		"like":"Вам понравилось?",
+		"p1":"основной логотип",
+		"p2":"герб",
+		"p3":"коллекция логотипов"
 	}
 };
 
